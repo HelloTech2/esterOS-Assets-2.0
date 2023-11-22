@@ -1,4 +1,4 @@
-# I am already working on the expansion of the new estericons
+# I am already working on the expansion of the new estericons, Stay tuned!
 
 # esterOS 25 Assets
 > its just fake. - ***Literally everyone***
