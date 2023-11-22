@@ -1,9 +1,10 @@
+# I am already working on the expansion of the new estericons
 
 # esterOS 25 Assets
-> its just fake. - **Literally** ***everyone***
+> its just fake. - ***Literally everyone***
 
-Well, technically yes, but actually no!\
-Cuz people keep forgetting :skull::
+Well, it is not fake but, like any OS, it takes too long to finish and release it to the public.\
+Cuz people keep forgetting :skull:
 
  - This is an Arch distro
  - It uses Gnome<sup>visually appealing edition</sup>
@@ -11,6 +12,7 @@ Cuz people keep forgetting :skull::
 	 - Has a custom boot animation
 	 - Has a custom font
 	 - Has custom wallpapers
+  	 - Use adw-gtk3 theme
 	 - ***WILL*** have custom apps
  - It is indeed real. (Atleast on the PC version  `¯\_(ツ)_/¯`)
 
