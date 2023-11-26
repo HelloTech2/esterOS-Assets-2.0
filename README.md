@@ -1,4 +1,4 @@
-# I am already working on the expansion of the new estericons, Stay tuned!
+# By problems of a uncompleted sudo pacman -Syu my instalation of esterOS 25.0 is not bootable with a error on GRUB and I backing up my estericons with the esterOS 25.0 LiveUSB and uploading to another GitHub Repo, Stay Tuned!
 
 # esterOS 25 Assets
 > its just fake. - ***Literally everyone***
