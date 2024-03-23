@@ -1,0 +1,1 @@
+# Due to my time and Shane's decision to deprecate esterOS desktop, I will make this repository an archive of all the icons that I fixed, improved and added to more applications, with all the ester style.
